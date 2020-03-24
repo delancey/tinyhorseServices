@@ -1,0 +1,53 @@
+<header></header>
+          <img class="gradient-div" src="images/Tiny-Horse-Agency-Gradient.jpg" alt="Gradient">
+
+    <div id='header_main' class='container_wrap container_wrap_logo'>
+
+    <div class='container av-logo-container'>
+    <div class='inner-container'><span class='logo'><img src="images/Tiny-Horse-logo-White-footer.png" alt="Tiny Horse Logo" height='100' width='300'> </span> 
+
+        <nav class='main_menu' data-selectname='Select a page'  role="navigation" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement" >
+
+            <div class="avia-menu av-main-nav-wrap">
+            
+                <ul id="avia-menu" class="menu av-main-nav">
+                    <li><a href="#"><span class="avia-menu-text">HOME</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+
+                    <li ><a href="#" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">SERVICES</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a>
+
+                        <ul class="sub-menu">
+                            <li >CONTENT PRODUCTION</span></a></li>
+                            <li >AGENCY SERVICES</span></a></li>
+                            <li>BRAND PARTNERSHIPS</span></a></li>
+                        </ul>
+                    </li>
+
+                    <li><a href="https://tinyhorse.com/about/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">ABOUT</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+
+                    <li><a href="https://tinyhorse.com/careers/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">CAREERS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+
+                    <li><a href="https://tinyhorse.com/interns/" itemprop="url"><span class="avia-bullet"></span><span class="avia-menu-text">INTERNS</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+
+                    <li><a href="#"><span class="avia-bullet"></span><span class="avia-menu-text">CONTACT</span><span class="avia-menu-fx"><span class="avia-arrow-wrap"><span class="avia-arrow"></span></span></span></a></li>
+
+                    <li class="av-burger-menu-main menu-item-avia-special ">
+                        <a href="#">
+                        <span class="av-hamburger av-hamburger--spin av-js-hamburger">
+                        <span class="av-hamburger-box">
+                        <span class="av-hamburger-inner"></span>
+                        <strong>Menu</strong>
+                        </span>
+                        </span>
+                        </a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
+    </div> 
+    </div> 
+    <!-- end container_wrap-->
+    </div> <!-- end header main -->
+    <div class='header_bg'></div>
+
+<!-- end header -->
+</header>
